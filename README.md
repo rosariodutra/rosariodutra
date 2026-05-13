@@ -10,7 +10,6 @@
 
 Profissional de dados com experiência nos setores **financeiro**, **faturamento** e **consultoria**. Atuo com análise, automação de processos e Business Intelligence, sempre focada em qualidade de dados e eficiência operacional.
 
-- 🏢 Atualmente na **Votorantim CoE** como Analista BI & Automação
 - 🐍 Automatizando rotinas com **Python, VBA e SQL**
 - 📊 Criando dashboards no **Power BI** para tomada de decisão
 
@@ -37,9 +36,8 @@ Profissional de dados com experiência nos setores **financeiro**, **faturamento
 
 <div align="center">
   <img src="projects.gif" alt="Projetos" width="100%" />
-
+  
 </div>
-
 ---
 
 ### 📈 GitHub Stats
