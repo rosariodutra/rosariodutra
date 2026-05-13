@@ -35,7 +35,7 @@ Profissional de dados com experiência nos setores **financeiro**, **faturamento
 ### 📂 Projetos
 
 <div align="center">
-  <img src="projects.gif" alt="Projetos" width="100%" />
+  <img src="projects.gif" width="100%" />
   
 </div>
 ---
