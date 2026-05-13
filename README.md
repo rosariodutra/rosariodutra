@@ -1,56 +1,82 @@
-# 👋 Hi, I'm Rosário Dutra
+<div align="center">
 
-📍 From Teresina - PI | Currently in Curitiba - PR  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Ros%C3%A1rio+Dutra+%F0%9F%91%8B;Analista+de+Dados+%26+BI;Python+%C2%B7+SQL+%C2%B7+Power+BI;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
 
-After years in the administrative/financial field, I transitioned into tech to focus on my passion: **programming and data analysis**. I hold a degree in **Financial Management** and am currently studying **Data Management**, taking courses to deepen my skills.
+<br/>
 
----
+[![Visits](https://komarev.com/ghpvc/?username=rosariodutra&color=7c3aed&style=flat-square&label=Visitantes)](https://github.com/rosariodutra)
 
-## 💡 Expertise
-
-- **Data Analysis:** Collecting, manipulating, and interpreting data to generate actionable insights.  
-- **Backend Development:** Solving complex problems and handling large volumes of data efficiently.  
-- **Decision Support:** Leveraging data to inform and improve business decisions.  
+</div>
 
 ---
 
-## 💻 Tech Stack
+### 👩‍💻 Sobre mim
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+Profissional de dados com experiência nos setores **financeiro**, **saúde** e **consultoria**. Atuo com análise, automação de processos e Business Intelligence, sempre focada em qualidade de dados e eficiência operacional.
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosariodutra)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rosariodutra)
+- 🏢 Atualmente na **Votorantim CoE** como Analista BI & Automação
+- 🐍 Automatizando rotinas com **Python, VBA e SQL**
+- 📊 Criando dashboards no **Power BI** para tomada de decisão
+- 📍 Teresina - PI | Curitiba - PR
 
 ---
 
-## 🚀 Current Projects
+### 🛠️ Tech Stack
 
-### 📝 Notas API
-A **Flask API** to create, read, update, and delete notes.  
-- CRUD operations for notes  
-- Filter notes by keywords  
-- Example project to practice backend and database integration  
-[View on GitHub](https://github.com/rosariodutra/notas-api)
+<div align="left">
 
-### 📊 Data Analysis Projects
-- Dashboards and reports using **Python**, **Pandas**, and **Power BI**  
-- Projects focused on **data cleaning, visualization, and business insights**  
+![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6d28d9?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-a78bfa?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Avançado-5b21b6?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-8b5cf6?style=flat-square&logo=microsoft&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-4c1d95?style=flat-square&logo=microsoft&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL--SQL-7c3aed?style=flat-square&logo=oracle&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-6d28d9?style=flat-square&logo=salesforce&logoColor=white)
+
+</div>
 
 ---
 
-## 🎯 Goals
+### 📂 Projetos em destaque
 
-- Grow as a **data analyst** and **backend developer**  
-- Work on **real-world projects** to improve skills  
-- Share knowledge and contribute to the **tech community**
+| Projeto | Descrição | Tech |
+|---|---|---|
+| 🎮 [Jogo da Forca](https://github.com/rosariodutra/jogo-da-forca) | Jogo clássico em Python com interface no terminal | Python |
+| 🧮 [Calculadora](https://github.com/rosariodutra/calculadora-python) | Calculadora com operações básicas e avançadas | Python |
+| 📊 [Dashboard KPI & SLA](https://github.com/rosariodutra/dashboard-kpi-sla) | Monitoramento de chamados com alertas automáticos | Python, Excel |
+| 💰 [Automação Financeira](https://github.com/rosariodutra/automacao-financeira) | Automação de lançamentos e análise de cenários | Python |
+| 🔍 [Análise Exploratória (EDA)](https://github.com/rosariodutra/analise-exploratoria) | EDA com Python e SQL para identificação de padrões | Python, SQL |
 
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=rosariodutra&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosariodutra&layout=compact&theme=midnight-purple&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://github.com/rosariodutra/rosariodutra/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 📜 Certificações
+
+`Python` · `SQL & PL/SQL` · `Power BI` · `Data Analytics` · `Excel Avançado` · `CRM Salesforce` · `Ciência de Dados`
+
+---
+
+<div align="center">
+<sub>Feito com 💜 por Rosário Dutra</sub>
+</div>
