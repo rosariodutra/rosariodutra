@@ -35,7 +35,15 @@ Profissional de dados com experiência nos setores **financeiro**, **faturamento
 ### 📂 Projetos
 
 <div align="center">
-  <img src="projects.gif" width="100%" />
+
+| | Projeto | Descrição | Tech |
+|:-:|---|---|---|
+| 🎮 | [Jogo da Forca](https://github.com/rosariodutra/jogo-da-forca) | Jogo clássico em Python com interface no terminal | `Python` |
+| 🧮 | [Calculadora](https://github.com/rosariodutra/calculadora-python) | Calculadora com operações básicas e avançadas | `Python` |
+| 📊 | [Dashboard KPI & SLA](https://github.com/rosariodutra/dashboard-kpi-sla) | Monitoramento de chamados com alertas automáticos | `Python` `Excel` |
+| 💰 | [Automação Financeira](https://github.com/rosariodutra/automacao-financeira) | Automação de lançamentos e análise de cenários | `Python` |
+| 🔍 | [Análise Exploratória EDA](https://github.com/rosariodutra/analise-exploratoria) | EDA com Python e SQL para identificação de padrões | `Python` `SQL` |
+
 </div>
 
 ---
@@ -62,7 +70,6 @@ Profissional de dados com experiência nos setores **financeiro**, **faturamento
   <img alt="snake animation" src="https://github.com/rosariodutra/rosariodutra/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚠️ A animação da cobrinha aparece após configurar o GitHub Actions (próximo passo).
 
 ---
 
